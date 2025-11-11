@@ -1,0 +1,16 @@
+Name: Chaitanya Avala
+personal Email: avalachaitanya2004@gmail.com 
+Institute Email: avala_clpy@cs.iitr.ac.in
+OS Name:                       Microsoft Windows 11 Home Single Language
+OS Version:                    10.0.26200 N/A Build 26200
+CPU: 12th Gen Intel(R) Core(TM) i5-1240P
+RAM: 8GB
+Python: 3.11.7
+Repository: https://github.com/<your-github-username>/factorio-assignment-chaitanya-avala
+Submission Date: November 11, 2025
+
+Notes:
+- Factory module uses PuLP (CBC) for LP solving.
+- Belts module is pure-Python (Dinic max-flow).
+- All CLI tools accept JSON on stdin and emit JSON on stdout.
+- Tests included under tests/.
